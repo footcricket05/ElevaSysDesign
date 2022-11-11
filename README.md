@@ -1,4 +1,4 @@
-# **Elevator-Control-System-UML**
+# **Elevator Control System**
 
 **The project includes all the UML diagrams sucha as:**
 1. Use Case Diagram
