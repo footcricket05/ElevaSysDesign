@@ -1,4 +1,4 @@
-# **Elevator Control System**
+# **Elevator Control System (OODP UML Project**
 
 **The project includes all the UML diagrams such as:**
 1. Use Case Diagram
