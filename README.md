@@ -44,5 +44,10 @@ Each diagram provides a unique perspective on the design and implementation of t
 
 
 
+## Contributing
+As this repository only contains a single PDF file, there is no scope for external contributions.
+
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
