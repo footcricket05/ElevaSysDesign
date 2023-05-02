@@ -50,4 +50,4 @@ As this repository only contains a single PDF file, there is no scope for extern
 
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the `MIT License` - see the LICENSE file for details.
