@@ -1,4 +1,4 @@
-# Elevator Control System (Object Oriented Design and Programming Project
+# Elevator Control System (Object Oriented Design and Programming Project)
 
 This repository contains a PDF document with a detailed description of an object-oriented design and programming project for an elevator control system. The document includes all the UML diagrams necessary to understand the design and implementation of the system.
 
