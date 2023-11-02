@@ -1,6 +1,6 @@
-# Elevator Control System (Object Oriented Design and Programming Project)
+# ElevaSysDesign: Elevator Control System Project
 
-This repository contains a PDF document with a detailed description of an object-oriented design and programming project for an elevator control system. The document includes all the UML diagrams necessary to understand the design and implementation of the system.
+Welcome to the ElevaSysDesign repository, which contains a detailed PDF document describing an object-oriented design and programming project for an elevator control system. The document includes essential UML diagrams that provide insights into the system's architecture and implementation.
 
 ## Accessing the PDF Document
 
